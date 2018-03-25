@@ -1,1 +1,1 @@
-<?php require '/var/www/html/sites/mysara/app/config.php';
+<?php require 'app/config.php';
