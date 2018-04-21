@@ -6,8 +6,8 @@ $GLOBALS['config'] = array(
 	//database configuration
 	'mysql' => array(
 		'host' => 'localhost', //mysql hostname
-		'username' => 'root',//mysql username
-		'password' => 'e97adada80157a17c4b0c9b8b3707fd9d358f937d480a648', //mysql password
+		'username' => '',//mysql username
+		'password' => '', //mysql password
 		'db' => 'mysara' //mysql database name
 	),
 	//cookie configuration
